@@ -1,7 +1,9 @@
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandipsonar.27) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipnsonar) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22433572) 
+<div style="display: flex; gap: 10px;">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandipsonar.27) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipnsonar) 
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22433572) 
+</div>
 
 ---
 
@@ -31,9 +33,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandipnsonar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandipnsonar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipnsonar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  ![](https://github-readme-stats.vercel.app/api?username=sandipnsonar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sandipnsonar&theme=dark&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipnsonar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
 
@@ -44,6 +48,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandipnsonar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 🗓️ Current Projects
+- **Project 1:** Description of what you're working on.
+- **Project 2:** Description of what you're working on.
 
 ---
 
